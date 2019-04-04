@@ -1,4 +1,4 @@
-# xiongan1
+# vue-template
 
 ## Project setup
 ```
